@@ -1,0 +1,3 @@
+Pillow
+send2trash
+tkinterdnd2
